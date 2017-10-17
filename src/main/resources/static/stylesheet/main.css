@@ -1,0 +1,21 @@
+h1 {
+    color: yellow;
+}
+
+table {
+    text-align: center;
+    align-content: center;
+}
+
+body {
+    text-align: center;
+    color: red;
+    background-image: url("http://renatures.com/wp-content/uploads/2017/02/forces-of-nature-water-lightning-storm-reflection-good-desktop-wallpapers-1920x1080.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: Candara;
+    font-size: 25px;
+}
+button{
+    font-size: 16px;
+}

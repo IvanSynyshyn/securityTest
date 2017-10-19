@@ -3,7 +3,7 @@ h1 {
 }
 
 table {
-    text-align: center;
+    text-align: right;
     align-content: center;
 }
 
@@ -16,6 +16,28 @@ body {
     font-family: Candara;
     font-size: 25px;
 }
-button{
+
+button {
+    text-align: center;
     font-size: 16px;
+}
+
+a {
+    color: yellow;
+    margin-right: 50px;
+    margin-top: 20px;
+    float: right;
+}
+
+.main-form{
+    display: inline-block;
+    text-align: right;
+}
+
+header .right{
+    float: right;
+}
+
+.clearfix{
+    clear: both;
 }
